@@ -1,0 +1,14 @@
+Tips to get most out of the course
+ccode alongside
+never push yourself alot even though u are not able to solve it after thinking alot.
+do not copy instead understand and then code yourself.
+
+// to click screenshot use windows + shift + s
+
+** HTML **
+html is the structure and content of the website.
+hyper text means it links different files in a folder &&  markup language means is a quote. 
+how to markup the html ?  ans USING HTML TAGS. such as headinmgs , paragraph tags.
+
+--- HEADING TAG ---
+theey are of predetermined sizes..
